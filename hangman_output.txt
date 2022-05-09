@@ -1,0 +1,442 @@
+What would you like to be called? 
+how old are you? 1
+- HOW TO PLAY:
+- Welcome to the game guessing by Humaira.
+- RULES: 
+- In this game, you will be given a random word from Humaira's words list.
+- You will have 10 chances to guess a random letter, and each time you get a letter wrong, the chances of your guesses will decrease.
+- The goal of this game is to guess the random word given to you within the 10 chances you get.
+Good Luck! !
+ 
+u cant play LOL
+Ty..
+
+---------------------------------------------------------------------------------------------------------------------
+
+What would you like to be called? hum
+how old are you? 1
+- HOW TO PLAY:
+- Welcome to the game guessing by Humaira.
+- RULES: 
+- In this game, you will be given a random word from Humaira's words list.
+- You will have 10 chances to guess a random letter, and each time you get a letter wrong, the chances of your guesses will decrease.
+- The goal of this game is to guess the random word given to you within the 10 chances you get.
+Good Luck! hum!
+ 
+u cant play LOL
+Thankyou for playing.
+
+---------------------------------------------------------------------------------------------------------------------
+
+What would you like to be called? 
+how old are you? 
+- HOW TO PLAY:
+- Welcome to the game guessing by Humaira.
+- RULES: 
+- In this game, you will be given a random word from Humaira's words list.
+- You will have 10 chances to guess a random letter, and each time you get a letter wrong, the chances of your guesses will decrease.
+- The goal of this game is to guess the random word given to you within the 10 chances you get.
+Good Luck! !
+ 
+u cant play LOL
+Ty..
+
+---------------------------------------------------------------------------------------------------------------------
+
+What would you like to be called? hum
+how old are you? 18
+- HOW TO PLAY:
+- Welcome to the game guessing by Humaira.
+- RULES: 
+- In this game, you will be given a random word from Humaira's words list.
+- You will have 10 chances to guess a random letter, and each time you get a letter wrong, the chances of your guesses will decrease.
+- The goal of this game is to guess the random word given to you within the 10 chances you get.
+Good Luck! hum!
+ 
+welcome hum
+_ _ _ _ 
+
+Input a letter: w
+
+
+welcome hum
+w _ _ _ 
+
+Input a letter: o
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  9
+you have guessed the letters: wo
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: k
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  8
+you have guessed the letters: wok
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: p
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  7
+you have guessed the letters: wokp
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: i
+
+
+welcome hum
+w i _ i 
+
+Input a letter: w
+
+
+welcome hum
+w i _ i 
+
+Input a letter: b
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  6
+you have guessed the letters: wokpiwb
+ 
+welcome hum
+w i _ i 
+
+Input a letter: f
+
+
+welcome hum
+w i f i 
+CONGRAGULATIONS!!!!!
+You guessed the word wifi correct!
+Here is your crown ♛ hum!
+Thankyou for playing.
+
+---------------------------------------------------------------------------------------------------------------------
+
+What would you like to be called? hum
+how old are you? 18
+- HOW TO PLAY:
+- Welcome to the game guessing by Humaira.
+- RULES: 
+- In this game, you will be given a random word from Humaira's words list.
+- You will have 10 chances to guess a random letter, and each time you get a letter wrong, the chances of your guesses will decrease.
+- The goal of this game is to guess the random word given to you within the 10 chances you get.
+Good Luck! hum!
+ 
+welcome hum
+_ _ _ _ 
+
+Input a letter: t
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  9
+you have guessed the letters: t
+ 
+welcome hum
+_ _ _ _ 
+
+Input a letter: m
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  8
+you have guessed the letters: tm
+ 
+welcome hum
+_ _ _ _ 
+
+Input a letter: w
+
+
+welcome hum
+w _ _ _ 
+
+Input a letter: o
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  7
+you have guessed the letters: tmwo
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: s
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  6
+you have guessed the letters: tmwos
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: p
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  5
+you have guessed the letters: tmwosp
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: v
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  4
+you have guessed the letters: tmwospv
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: h
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  3
+you have guessed the letters: tmwospvh
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: u
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  2
+you have guessed the letters: tmwospvhu
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: w
+
+
+welcome hum
+w _ _ _ 
+
+Input a letter: c
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  1
+you have guessed the letters: tmwospvhuwc
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: m
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  0
+you have guessed the letters: tmwospvhuwcm
+ 
+You've run out of guesses.
+Sorry for the loss hum but heres a cookie 🍪 
+The word was wifi!
+Thankyou for playing.
+
+---------------------------------------------------------------------------------------------------------------------
+
+What would you like to be called? -
+how old are you? 1
+- HOW TO PLAY:
+- Welcome to the game guessing by Humaira.
+- RULES: 
+- In this game, you will be given a random word from Humaira's words list.
+- You will have 10 chances to guess a random letter, and each time you get a letter wrong, the chances of your guesses will decrease.
+- The goal of this game is to guess the random word given to you within the 10 chances you get.
+Good Luck! -!
+ 
+u cant play LOL
+Thanks for playing loll.
+
+---------------------------------------------------------------------------------------------------------------------
+
+What would you like to be called? ,
+how old are you? 1
+- HOW TO PLAY:
+- Welcome to the game guessing by Humaira.
+- RULES: 
+- In this game, you will be given a random word from Humaira's words list.
+- You will have 10 chances to guess a random letter, and each time you get a letter wrong, the chances of your guesses will decrease.
+- The goal of this game is to guess the random word given to you within the 10 chances you get.
+Good Luck! ,!
+ 
+u cant play LOL
+Thanks for playing loll.
+
+---------------------------------------------------------------------------------------------------------------------
+
+What would you like to be called? hum
+how old are you? 18
+- HOW TO PLAY:
+- Welcome to the game guessing by Humaira.
+- RULES: 
+- In this game, you will be given a random word from Humaira's words list.
+- You will have 10 chances to guess a random letter, and each time you get a letter wrong, the chances of your guesses will decrease.
+- The goal of this game is to guess the random word given to you within the 10 chances you get.
+Good Luck! hum!
+ 
+welcome hum
+_ _ _ _ 
+
+Input a letter: w
+
+
+welcome hum
+w _ _ _ 
+
+Input a letter: o
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  9
+you have guessed the letters: wo
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: s
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  8
+you have guessed the letters: wos
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: p
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  7
+you have guessed the letters: wosp
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: w
+
+
+welcome hum
+w _ _ _ 
+
+Input a letter: m
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  6
+you have guessed the letters: wospwm
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: -
+
+***INVALID CHARACTER*** Input a letter again: 5
+_ _ _ _ ***INVALID CHARACTER*** Input a letter again: =
+_ _ _ _ ***INVALID CHARACTER*** Input a letter again: w
+w _ _ _ 
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  5
+you have guessed the letters: w
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: 8
+
+***INVALID CHARACTER*** Input a letter again: ;
+_ _ _ _ ***INVALID CHARACTER*** Input a letter again: g
+_ _ _ _ 
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  4
+you have guessed the letters: g
+ 
+welcome hum
+_ _ _ _ 
+
+Input a letter: w
+
+
+welcome hum
+w _ _ _ 
+
+Input a letter: p
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  3
+you have guessed the letters: gwp
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: q
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  2
+you have guessed the letters: gwpq
+ 
+welcome hum
+w _ _ _ 
+
+Input a letter: i
+
+
+welcome hum
+w i _ i 
+
+Input a letter: 
+
+
+welcome hum
+w i _ i 
+
+Input a letter: 
+
+
+welcome hum
+w i _ i 
+
+Input a letter: c
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  1
+you have guessed the letters: gwpqic
+ 
+welcome hum
+w i _ i 
+
+Input a letter: j
+
+
+The letter you have chosen is an incorrect letter and is not in the word. Try again.
+Lives left:  0
+you have guessed the letters: gwpqicj
+ 
+You've run out of guesses.
+Sorry for the loss hum but heres a cookie 🍪 
+The word was wifi!
+Thankyou for playing.
